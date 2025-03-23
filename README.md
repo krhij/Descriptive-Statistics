@@ -7,4 +7,4 @@ COLLABORATOR: Jan Matusiak
 
 
 # Labs 2
-[Report1](10_03_2025/"Exercise 1.md")
+[Report1](10_03_2025/"Exercise1.md")
