@@ -20,3 +20,6 @@ COLLABORATOR: Jan Matusiak
 
 # Labs 5
 [Report1](28_04_2025/Exercise8v2.md)
+
+# Labs 6
+[Report1](19_05_2025/Exercise9.md)
